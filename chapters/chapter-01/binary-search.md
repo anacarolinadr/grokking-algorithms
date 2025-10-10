@@ -3,11 +3,11 @@
 #### Chapter One - B.S. Notes 
 
 * The input list for binary search must be sorted
-<br>
+
 * The algorithm calculates the middle index and analyzes whether the element is greater or smaller than it. Based on that, it chooses the portion where the element is located and continues to search.
-<br>
+
 * So, binary search needs log(n) to return the correct element, unlike linear search, which requires n steps
-<br>
+
 * Practical example in Python:
 
 ```
