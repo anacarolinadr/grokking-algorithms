@@ -10,7 +10,8 @@
 
 * Practical example in Python:
 
-```
+```python 
+
 def binary_search(list, item):
     low = 0
     high = len(lista) - 1
