@@ -1,9 +1,4 @@
 def search_key(box, path="Main box"):
-    """
-    Procura a chave dentro de caixas aninhadas
-    caixa: pode ser 'chave' ou uma lista de caixas
-    path: caminho percorrido até agora
-    """
     if box == "key":
         print(f"Key found in {path}!")
         return True
