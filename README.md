@@ -11,10 +11,10 @@ Here you’ll find summaries, challenge solutions, and practical implementations
 
 grokking-algorithms/
     ├── 📂 chapters/
-    ├── 📂 chapter-01/
-    ├── 📂 chapter-02/
-    ├── 📂 chapter-03/
-    └── ...
+        ├── 📂 chapter-01/
+        ├── 📂 chapter-02/
+        ├── 📂 chapter-03/
+        └── ...
 
 ```
 
